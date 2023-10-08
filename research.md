@@ -9,10 +9,11 @@ title: Research
 1. A Normative Comparison of Threshold Views,   
 **Synthese** (2022)    
 [PDF](https://link-springer-com.myaccess.library.utoronto.ca/article/10.1007/s11229-022-03784-x)
-# 2. Algorithmic Fairness and Resentment,   
-# **Philosophical Studies** (2023)
-# with Zoe Johnson King [PDF](research/afr.pdf)
-
+<!-- 
+2. Algorithmic Fairness and Resentment,   
+**Philosophical Studies** (2023)
+with Zoe Johnson King [PDF](research/afr.pdf)
+-->
 **Work in Progress** 
 
 <ol start="18">
