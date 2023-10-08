@@ -20,7 +20,7 @@ with Zoe Johnson King [PDF](research/afr.pdf)
 <ol start="2">
   <li> A paper on identifying experts (R&R) </li>
   <li> A paper on diversity (R&R) </li>
-  <li> *The illusion of ethical-epistemic tradeoff* (draft available): 
+  <li> The illusion of ethical-epistemic tradeoff (draft available): 
   
   I argue that what practitioners commonly refer to as "fairness-accuracy tradeoffs" in the computer science literature should not be understood as a kind of ethical-epistemic tradeoff.  </li>
 </ol> 
