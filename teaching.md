@@ -3,11 +3,17 @@ layout: page
 title: Teaching
 ---
 
-At the University of Toronto, I designed and taught the course Persons, Minds and Bodies (PHL 240), with a focus on how new technologies can change our understanding of the mind and personal identity. You can find the syllabus [here](teaching/syllabus240.pdf).
+At the University of Toronto, I designed and taught the course __Persons, Minds and Bodies__ (PHL 240), with a focus on how new technologies can change our understanding of the mind and personal identity. You can find the syllabus [here](teaching/syllabus240.pdf).
 
-I have also lead tutorials for many other courses in the philosophy of mind, including Philosophy of Imagination, Theories of Mind, and Representation, as well as courses in logic and probability.
+I have taught students from a wide range of disciplines, including computer science, statistics, economics and cognitive science. Currently, I am designing a module on algorithmic fairness for third-year undergraduates in computer science, as part of the __Embedded Ethics__ project. [Here](teaching/fairness_material.pdf) you can find a sample of the material, including a worksheet, discussion questions and two sample problems for students. 
 
-I have taught students from a wide range of disciplines, including computer science, statistics, economics and cognitive science. Currently, I am designing a module on algorithmic fairness for third-year undergraduates in computer science.
+Other teaching experience as a TA:
+
+* Probability and Inductive Logic
+* Modern Symbolic Logic
+* Theories of Mind
+* Philosophy of Imagination
+* Representation
 
 <!--  
 **Califoria Institute of Technology**
