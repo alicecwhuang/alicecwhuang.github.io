@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Grants
+title: Fellowships and Awards
 ---
 <!--- You will find below a list of publications and works in progress, followed by a general overview of my research. --> 
 

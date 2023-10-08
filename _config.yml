@@ -2,39 +2,36 @@
 # url is the full website URL
 # baseurl is the website's URL without the hostname
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://babicb.github.io"
+url: "http://alicecwhuang.github.io"
 baseurl: ""
 
 # Name of website
 title: Home
 # Short description of your site
-description: Assistant Professor, University of Toronto
+description: 
 
 
 # --- Navigation bar options --- #
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-# avatar: "/img/babic.jpg"
 
 # List of links in the navigation bar
 navbar-links:
   Research: "research"
   Teaching: "teaching"
-  Students: "students"
-  Grants/Funding: "grants"
-  CV: "Babic_CV.pdf"
+  CV: "Academic_CV.pdf"
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Boris Babic
+  name: Alice C.W. Huang
 
 # --- Misc --- #
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-122236544-1"
+google_analytics: ""
 
 # Character used to separate site title and description in HTML document title
 # and RSS feed title
@@ -43,15 +40,15 @@ title-separator: ""
 # --- Background colour/image options --- #
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
-navbar-col: "#172B4D"
-navbar-text-col: "#FFFFFF"
+navbar-col: "#5F9EA0"
+navbar-text-col: "#FFFACD"
 #navbar-children-col: "#403294"
 #page-col: "#9370DB" 
-link-col: "#0747A6" #"#008AFF"
-hover-col: "#97A0AF"
+link-col: "#191970" #"#008AFF"
+hover-col: "#191970"
 #footer-col: "#F5F5F5"
 #footer-text-col: "#777777"
-footer-link-col: "#0747A6" #"#404040"
+footer-link-col: "#E0FFFF" #"#404040"
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
