@@ -18,7 +18,7 @@ with Zoe Johnson King [PDF](research/afr.pdf)
 
 **Work in Progress** 
 
-<ol start="18">
+<ol start="2">
   <li> A paper on identifying experts (R&R) </li>
   <li> A paper on diversity (R&R) </li>
   <li> A paper on the interpretation of different fairness-accuracy tradeoffs in machine learning (draft available) </li>
