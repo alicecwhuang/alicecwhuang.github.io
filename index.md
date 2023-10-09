@@ -14,7 +14,7 @@ meta-description: ""
 
 <div style="display: flex; justify-content: space-between; width: 100%;">
   <div style="flex: 1;">
-    <p><img src="/img/profile.jpg" width="100%" height="auto"></p>
+    <p><img src="/img/profile.jpg" width="75%" height="auto"></p>
   </div>
   <div style="flex: 1.25;">
     <p>I am a PhD candidate in philosophy at the <a href="https://philosophy.utoronto.ca">University of Toronto</a>, and a graduate fellow at the <a href="https://srinstitute.utoronto.ca">Schwartz Reisman Institute for Technology & Society</a>. For the second year now, I am also supported by the Pronovost Morgan Family Foundation Fellowship in Ethical AI.</p>
