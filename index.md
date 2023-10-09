@@ -12,9 +12,9 @@ meta-description: ""
 </div>
 -->
 
-<div style="display: flex; justify-content: space-between; width: 80%;">
+<div style="display: flex; justify-content: space-between; width: 120%;">
   <div style="flex: 1;">
-    ![Profile Photo](/img/profile.jpg)
+    <p><img src="/img/profile.jpg" width="50%" height="auto"></p>
   </div>
   <div style="flex: 1;">
     I am a PhD candidate in philosophy at the <a href="https://philosophy.utoronto.ca">University of Toronto</a>, and a graduate fellow at the <a href="https://srinstitute.utoronto.ca">Schwartz Reisman Institute for Technology & Society</a>. For the second year now, I am also supported by the Pronovost Morgan Family Foundation Fellowship in Ethical AI.
