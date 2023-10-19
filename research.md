@@ -7,7 +7,7 @@ title: Research
 **Academic Articles**
 
 1. Track Records: A Cautionary Tale,   
-**The British Journal of Philosophy of Science** (forthcoming)
+**The British Journal for the Philosophy of Science** (forthcoming)
 [PDF](research/Track_Record_BJPS.pdf)
 
 
