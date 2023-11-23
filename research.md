@@ -6,18 +6,21 @@ title: Research
 
 **Academic Articles**
 
-1. Track Records: A Cautionary Tale,   
+1. Landscapes and Bandits: A Unified Model of Functional and Demographic Diversity,   
+**Philosophy of Science** (forthcoming)
+[PDF](research/Diversity_PHOS.pdf)
+
+2. Track Records: A Cautionary Tale,   
 **The British Journal for the Philosophy of Science** (forthcoming)
-[PDF](research/Track_Record_BJPS.pdf)
+[PDF](https://www.journals.uchicago.edu/doi/10.1086/728459)
 
 
-2. A Normative Comparison of Threshold Views,
+3. A Normative Comparison of Threshold Views,
 **Synthese** (2022) [PDF](https://link-springer-com.myaccess.library.utoronto.ca/article/10.1007/s11229-022-03784-x)
 
 **Work in Progress** 
 
-<ol start="3">
-  <li> A paper on diversity (R&R) </li>
+<ol start="4">
   <li> The illusion of ethical-epistemic tradeoff (draft available upon request) </li>
 </ol> 
 
