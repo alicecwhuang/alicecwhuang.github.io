@@ -3,7 +3,9 @@ layout: page
 title: Teaching
 ---
 
-At the University of Toronto, I designed and taught the course __Persons, Minds and Bodies__ (PHL 240), with a focus on how new technologies can change our understanding of the mind and personal identity. You can find the syllabus [here](teaching/syllabus240.pdf).
+I am teaching __Ethical Issues in Big Data__ in spring 2024 as the instructor at the University of Toronto. You can find the syllabus [here](teaching/syllabus377.pdf).
+
+I also designed and taught the course __Persons, Minds and Bodies__ (PHL 240) in summer 2023, with a focus on how new technologies can change our understanding of the mind and personal identity. You can find the syllabus [here](teaching/syllabus240.pdf).
 
 I have taught students from a wide range of disciplines, including computer science, statistics, economics and cognitive science. Currently, I am designing a module on algorithmic fairness for third-year undergraduates in computer science, as part of the __Embedded Ethics__ project. [Here](teaching/fairness_material.pdf) you can find a sample of the material, including a worksheet, discussion questions and two sample problems for students. 
 
