@@ -22,6 +22,8 @@ title: Research
 
 <ol start="4">
   <li> The illusion of ethical-epistemic tradeoff (draft available upon request) </li>
+  <li> A paper on gaslighting (draft available upon request) </li>
+  <li> A paper on rewards in science </li>
 </ol> 
 
 &nbsp;
