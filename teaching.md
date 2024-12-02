@@ -3,7 +3,7 @@ layout: page
 title: Teaching
 ---
 
-I spend a lot of my time developing ways to weave ethics content into computer science curriculum and problem sets. The goal is to combine ethical reasoning with the technical content in computer science and statistic course as seamlessly as possible. I have developed course content and homework problems for computer science students on topics such as value-laden design in reinforcement learning, data science, interpretability and privacy.
+I spend a lot of my time developing ways to weave ethics content into computer science curriculum and problem sets. The goal is to combine ethical reasoning with the technical content in computer science and statistic courses as seamlessly as possible. I have developed course content and homework problems for computer science students on topics such as value-laden design in reinforcement learning, data science, interpretability and privacy.
 
 I taught __Ethical Issues in Big Data__ in spring 2024 as the instructor at the University of Toronto. You can find the syllabus [here](teaching/syllabus377.pdf).
 
