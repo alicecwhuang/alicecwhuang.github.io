@@ -21,9 +21,10 @@ title: Research
 **Work in Progress** 
 
 <ol start="4">
-  <li> The illusion of ethical-epistemic tradeoff (draft available upon request) </li>
-  <li> A paper on gaslighting (draft available upon request) </li>
-  <li> A paper on rewards in science </li>
+  <li> The illusion of ethical-epistemic tradeoff (draft available) </li>
+  <li> A paper on gaslighting (draft available) </li>
+  <li> A paper on rewards in science (draft available)</li>
+  <li> A paper on decision trees and interpretability (draft available)</li>
 </ol> 
 
 &nbsp;

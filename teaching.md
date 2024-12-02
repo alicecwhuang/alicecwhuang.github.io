@@ -3,19 +3,12 @@ layout: page
 title: Teaching
 ---
 
-I am teaching __Ethical Issues in Big Data__ in spring 2024 as the instructor at the University of Toronto. You can find the syllabus [here](teaching/syllabus377.pdf).
+I spend a lot of my time developing ways to weave ethics content into computer science curriculum and problem sets. The goal is to combine ethical reasoning with the technical content in computer science and statistic course as seamlessly as possible. I have developed course content and homework problems for computer science students on topics such as value-laden design in reinforcement learning, data science, interpretability and privacy.
 
-I also designed and taught the course __Persons, Minds and Bodies__ (PHL 240) in summer 2023, with a focus on how new technologies can change our understanding of the mind and personal identity. You can find the syllabus [here](teaching/syllabus240.pdf).
+I taught __Ethical Issues in Big Data__ in spring 2024 as the instructor at the University of Toronto. You can find the syllabus [here](teaching/syllabus377.pdf).
 
-I have taught students from a wide range of disciplines, including computer science, statistics, economics and cognitive science. I designed a module on algorithmic fairness for third-year undergraduates in computer science, as part of the __Embedded Ethics__ project at the University of Toronto.
+In summer 2023, I also designed and taught the course __Persons, Minds and Bodies__ (PHL 240), with a focus on how new technologies can change our understanding of the mind and personal identity. You can find the syllabus [here](teaching/syllabus240.pdf).
 
-Other teaching experience as a TA:
-
-* Probability and Inductive Logic
-* Modern Symbolic Logic
-* Theories of Mind
-* Philosophy of Imagination
-* Representation
 
 <!--  
 **Califoria Institute of Technology**
