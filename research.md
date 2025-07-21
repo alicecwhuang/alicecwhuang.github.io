@@ -7,7 +7,7 @@ title: Research
 **Academic Articles**
 
 1. Landscapes and Bandits: A Unified Model of Functional and Demographic Diversity,   
-**Philosophy of Science** (forthcoming)
+**Philosophy of Science** (2024)
 [PDF](research/Diversity_PHOS.pdf)
 
 2. Track Records: A Cautionary Tale,   
