@@ -17,9 +17,9 @@ meta-description: ""
     <p><img src="/img/profile.jpg" width="75%" height="auto"></p>
   </div>
   <div style="flex: 1.25;">
-    <p>I am a postdoctoral fellow at <a href="https://embeddedethics.seas.harvard.edu/">Harvard University</a>. Starting fall 2025, I will be an assistant professor and the Duncanson Chair in Ethics and Technology at Western University, jointly appointed in <a href="https://www.csd.uwo.ca/">computer science</a> and in <a href="https://www.uwo.ca/philosophy/"> philosophy </a>.</p>
+    <p>I am an assistant professor and the Duncanson Chair in Ethics and Technology at Western University, jointly appointed in <a href="https://www.csd.uwo.ca/">computer science</a> and in <a href="https://www.uwo.ca/philosophy/"> philosophy </a>. I am also a faculty affiliate at the <a href="https://srinstitute.utoronto.ca">Schwartz Reisman Institute for Technology & Society</a>. Before that, I was a postdoctoral fellow at <a href="https://embeddedethics.seas.harvard.edu/">Harvard University</a>. </p>
     
-  <p> I received my PhD in philosophy at the <a href="https://philosophy.utoronto.ca">University of Toronto</a>, where I was also a fellow at the <a href="https://srinstitute.utoronto.ca">Schwartz Reisman Institute for Technology & Society</a>. During my PhD, I was also supported by the Pronovost Morgan Family Foundation Fellowship in Ethical AI.</p>
+  <p> I received my PhD in philosophy at the <a href="https://philosophy.utoronto.ca">University of Toronto</a>.
 
   <p>I work primarily in the ethics of machine learning and social formal epistemology. My projects fall into two broad categories. The first kind of project connects formal results in artificial intelligence research to our ethical reasoning. I think about how we should interpret different trade-offs found in machine learning and how we can make moral advice implementable and relevant for practitioners. The second kind of project uses formal models to investigate pressing issues in our social discourse today, such as questions about the value of diversity, misinformation, fairness, and polarization.</p>
 

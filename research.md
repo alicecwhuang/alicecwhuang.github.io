@@ -25,6 +25,7 @@ title: Research
   <li> A paper on gaslighting (draft available) </li>
   <li> A paper on rewards in science (draft available)</li>
   <li> A paper on decision trees and interpretability (draft available)</li>
+  <li> A paper on hypes (draft available) </li>
 </ol> 
 
 &nbsp;
