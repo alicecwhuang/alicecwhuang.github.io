@@ -1,0 +1,30 @@
+/* === Wide & Responsive Content Layout === */
+.main-content {
+  max-width: 1600px;    /* Wider than typical blog widths */
+  width: 90%;           /* Take up most of the viewport */
+  margin: 0 auto;       /* Keep it centered */
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+/* For large screens (desktops) */
+@media (min-width: 1400px) {
+  .main-content {
+    width: 85%;         /* Give a little margin on very large screens */
+  }
+}
+
+/* For tablets */
+@media (max-width: 991px) {
+  .main-content {
+    width: 95%;         /* Slightly more space on smaller devices */
+  }
+}
+
+/* For phones */
+@media (max-width: 600px) {
+  .main-content {
+    width: 100%;        /* Use full width on mobile */
+    padding: 15px;
+  }
+}

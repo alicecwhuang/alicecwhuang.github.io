@@ -17,7 +17,9 @@ meta-description: ""
     <p><img src="/img/profile.jpg" width="75%" height="auto"></p>
   </div>
   <div style="flex: 1.25;">
-    <p>I am an assistant professor and the Duncanson Chair in Ethics and Technology at Western University, jointly appointed in <a href="https://www.csd.uwo.ca/">computer science</a> and in <a href="https://www.uwo.ca/philosophy/"> philosophy </a>. I am also a faculty affiliate at the <a href="https://srinstitute.utoronto.ca">Schwartz Reisman Institute for Technology & Society</a>, and a core member of the <a href="https://www.rotman.uwo.ca">Rotman Institute for Philosophy of Science</a>. Before that, I was a postdoctoral fellow at <a href="https://embeddedethics.seas.harvard.edu/">Harvard University</a>. </p>
+    <p>I am an assistant professor and the Duncanson Chair in Ethics and Technology at Western University, jointly appointed in <a href="https://www.csd.uwo.ca/">computer science</a> and in <a href="https://www.uwo.ca/philosophy/"> philosophy </a>. I am also a faculty affiliate at the <a href="https://srinstitute.utoronto.ca">Schwartz Reisman Institute for Technology & Society</a>, and a core member of the <a href="https://www.rotman.uwo.ca">Rotman Institute for Philosophy of Science</a>.</p>
+    
+  <p>Before that, I was a postdoctoral fellow at <a href="https://embeddedethics.seas.harvard.edu/">Harvard University</a>. </p>
     
   <p> I received my PhD in philosophy at the <a href="https://philosophy.utoronto.ca">University of Toronto</a>.
 
