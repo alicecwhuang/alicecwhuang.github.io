@@ -3,26 +3,12 @@ layout: page
 title: Research
 ---
 
-<<<<<<< HEAD
-<!--- You will find below a list of publications and works in progress, followed by a general overview of my research. -->
-
 I'm interested in the conceptual foundations of machine learning and the ethical, epistemic, and social implications of AI systems. I also use computational models to study opinion dynamics and collaboration. Below are some of my recent and ongoing projects:
 
 ### What Do We Really Want from Interpretability?
-=======
-**Academic Articles**
 
-1. Landscapes and Bandits: A Unified Model of Functional and Demographic Diversity,   
-**Philosophy of Science** (2024)
-[PDF](research/Diversity_PHOS.pdf)
+Interpretability is one of the most discussed topics in machine learning today, but what additional information do we actually need from a model, beyond its predictions? The answer depends on our goals. My research explores the conceptual landscape of interpretability, with several ongoing projects:
 
-2. Track Records: A Cautionary Tale,   
-**The British Journal for the Philosophy of Science** (forthcoming)
-[PDF](https://www.journals.uchicago.edu/doi/10.1086/728459)
->>>>>>> parent of d8a2942 (update research page)
-
-
-<<<<<<< HEAD
 #### SSHRC Insight Development Grant
 
 **Title:** *Beyond the Accuracy-Interpretability Tradeoff: Optimizing Human-AI Collaborations*
@@ -81,26 +67,6 @@ I study how misperceptions of opinion space contribute to polarization, and whet
   <li> A paper on hypes (draft available) </li>
 </ol> --> 
 
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-
-=======
-3. A Normative Comparison of Threshold Views,
-**Synthese** (2022) [PDF](https://link-springer-com.myaccess.library.utoronto.ca/article/10.1007/s11229-022-03784-x)
-
-**Work in Progress** 
-
-<ol start="4">
-  <li> The illusion of ethical-epistemic tradeoff (draft available) </li>
-  <li> A paper on gaslighting (draft available) </li>
-  <li> A paper on rewards in science (draft available)</li>
-  <li> A paper on decision trees and interpretability (draft available)</li>
-  <li> A paper on hypes (draft available) </li>
-</ol> 
 
 &nbsp;
 &nbsp;
@@ -126,4 +92,3 @@ Currently, I am working on a project that extends considerations of epistemic ri
 I am also working on a project on chance and coherence for imperfect Bayesian agents (Assessment Reversal in Approximate Coherentism). I suggest that approximating coherence may not be an appropriate proxy for traditional (all or nothing) coherence because unlike the latter, approximating coherence is susceptible to misfortune. 
 **Normative ethics**. I believe the theory of epistemic risk can fruitfully speak to several problems that have been articulated in the moral encroachment and normative dilemmas literature. In a joint project with Zoë Johnson-King (Moral Obligations and Epistemic Risk), we explore the relationship between moral obligations and attitudes to epistemic risk.
 **Law and public policy**. This dimension of my research engages the emerging literature on algorithmic fairness and ethics in statistics and machine learning. I am interested in both the normative dimension of what constitutes fair AI/ML and the statistical engineering problem of how to construct fair learning algorithms. I am also interested in the empirical study of related public policy problems. Currently, I am working on applying the theory of epistemic risk to evaluate the pervasiveness of discrimination. In particular, in Testing for Discrimination and the Risk of Error, I defend a statistical test for discrimination grounded in attitudes to epistemic risk. Meanwhile, in Adaptive Burdens of Proof, I argue that many apparent paradoxes of proof involving statistical evidence arise because we assume (without justification) that legal decision makers must have one unique attitude to epistemic risk -- namely, neutrality.  -->
->>>>>>> parent of d8a2942 (update research page)
