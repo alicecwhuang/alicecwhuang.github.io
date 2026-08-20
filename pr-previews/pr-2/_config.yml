@@ -1,0 +1,92 @@
+# --- General options --- #
+# url is the full website URL
+# baseurl is the website's URL without the hostname
+# If you are building a simple GitHub user page (http://username.github.io) then use these settings:
+url: "http://alicecwhuang.github.io"
+baseurl: ""
+
+# Name of website
+title: Home
+# Short description of your site
+description: 
+
+
+# --- Navigation bar options --- #
+
+# Image to show in the navigation bar - image must be a square (width = height)
+# Remove this parameter if you don't want an image in the navbar
+
+# List of links in the navigation bar
+navbar-links:
+  Research: "research"
+  Teaching: "teaching"
+  CV: "Academic_CV.pdf"
+# --- Footer options --- #
+
+# Change all these values or delete the ones you don't want.
+# Important: you must keep the "name" parameter, everything else you can remove
+author:
+  name: Alice C.W. Huang
+
+# --- Misc --- #
+
+# Fill in your Google Analytics ID to track your website using GA
+google_analytics: ""
+
+# Character used to separate site title and description in HTML document title
+# and RSS feed title
+title-separator: ""
+
+# --- Background colour/image options --- #
+
+# Personalize the colors in your website. Colour values can be any valid CSS colour
+navbar-col: "#5F9EA0"
+navbar-text-col: "#FFFACD"
+#navbar-children-col: "#403294"
+#page-col: "#9370DB" 
+link-col: "#191970" #"#008AFF"
+hover-col: "#191970"
+#footer-col: "#F5F5F5"
+#footer-text-col: "#777777"
+footer-link-col: "#E0FFFF" #"#404040"
+
+# --- Don't need to touch anything below here (but you can if you want) --- #
+
+# Output options (more information on Jekyll's site)
+timezone: "America/Vancouver"
+markdown: kramdown
+highlighter: rouge
+permalink: /:year-:month-:day-:title/
+paginate: 5
+
+kramdown:
+  input: GFM
+
+# Default YAML values (more information on Jekyll's site)
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: false  # add comments to all blog posts
+      social-share: false # add social media sharing buttons to all blog posts
+  -
+    scope:
+      path: "" # all files
+    values:
+      layout: "page"
+      show-avatar: false
+
+# Exclude these files from production site
+exclude:
+  - CHANGELOG.md
+  - CNAME
+  - Dockerfile
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - Vagrantfile
+  

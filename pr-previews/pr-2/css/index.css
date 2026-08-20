@@ -1,0 +1,16 @@
+/* Mobile responsive layout */
+@media only screen and (max-width: 768px) {
+  .responsive-flex {
+    flex-direction: column !important;
+  }
+  
+  .responsive-flex img {
+    max-width: 200px !important;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .responsive-flex img {
+    max-width: 150px !important;
+  }
+}
