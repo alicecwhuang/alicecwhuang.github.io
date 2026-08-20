@@ -10,7 +10,7 @@ meta-description: ""
 
 <div style="display: flex; flex-direction: column; gap: 20px;" class="responsive-flex">
   <div style="flex: 1;">
-    <p><img src="/img/profile.jpg" width="75%" height="auto"></p>
+    <p><img src="/img/profile.jpg" width="30%" height="auto"></p>
   </div>
   <div style="flex: 1.25;">
     <p>I am an assistant professor and the Duncanson Chair in Ethics and Technology at Western University, jointly appointed in <a href="https://www.csd.uwo.ca/">computer science</a> and in <a href="https://www.uwo.ca/philosophy/"> philosophy</a>. I am also a faculty affiliate at the <a href="https://srinstitute.utoronto.ca">Schwartz Reisman Institute for Technology & Society</a>, and a core member of the <a href="https://www.rotman.uwo.ca">Rotman Institute for Philosophy of Science</a>.</p>
