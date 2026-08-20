@@ -17,7 +17,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Deploy PR Preview
-        uses: rossjirtle/pr-preview-action@v1
+        uses: rossjrw/pr-preview-action@v1
         with:
           source-dir: .
           preview-branch: gh-pages
