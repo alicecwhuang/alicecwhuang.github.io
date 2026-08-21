@@ -1,0 +1,23 @@
+name: Deploy PR Preview
+
+on:
+  pull_request:
+    branches: [ main, master ]
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  deploy-preview:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Deploy Preview to GitHub Pages
+        uses: rossjrw/pr-preview-action@v1
+        with:
+          source-dir: . # Change this if your build files are in a subfolder like 'dist' or 'build'
+          preview-branch: gh-pages
+          umbrella-dir: pr-previews
